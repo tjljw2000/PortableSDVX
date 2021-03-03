@@ -1,9 +1,10 @@
-/Hardware/pcb/__Previews
-/Hardware/pcb/History
-/Hardware/pcb/Project Logs for PortableSDVX
-/Hardware/pcb/Project Outputs for PortableSDVX
-/Firmware/.vscode
+/Hardware/PCB/__Previews
+/Hardware/PCB/History
+/Hardware/PCB/Project Logs for PortableSDVX
+/Hardware/PCB/Project Outputs for PortableSDVX
+/Firmware/
 /Firmware/Listings
 /Firmware/Objects
 /Firmware/portablesdvx.uvgui.tjljw
 /debug.log
+/.vscode
