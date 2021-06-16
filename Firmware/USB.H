@@ -8,6 +8,10 @@ extern UINT8   SetupReq, SetupLen, Ready, Count, FLAG, UsbConfig;
 //PUINT8  pDescr;                                                                //USB配置标志
 extern USB_SETUP_REQ   SetupReqBuf; 
 
+extern UINT8 HIDMouse[4];
+extern UINT8 HIDKey[8];
+
+
 //#ifndef	__DEBUG_H__
 //void CH552SoftReset();
 //void CH552USBDevWakeup();

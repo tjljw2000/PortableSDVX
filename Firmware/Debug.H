@@ -26,7 +26,7 @@
 #define  UART0_BUAD    57600
 #define  UART1_BUAD    57600
 #endif
-#ifndef  DE_PRINTF                      //程序Printf输出开启
+#ifdef  DE_PRINTF                      //程序Printf输出开启
 #define  DE_PRINTF     1
 #endif
 
