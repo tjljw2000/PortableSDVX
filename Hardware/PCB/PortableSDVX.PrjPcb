@@ -122,6 +122,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFLDMCMJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PortableSDVX\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\..\Users\Public\Documents\Altium\AD19\Library\YCK8\*.*
 IncludeSubFolders=1
@@ -245,7 +249,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Lenovo LJ2200
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
